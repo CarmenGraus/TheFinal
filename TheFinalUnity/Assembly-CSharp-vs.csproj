@@ -46,8 +46,11 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\Scripts\gameControl.cs" />
      <Compile Include="Assets\Scripts\generadorScript.cs" />
      <Compile Include="Assets\Scripts\limiteVelocidad.cs" />
+     <Compile Include="Assets\Scripts\menuScript.cs" />
+     <Compile Include="Assets\Scripts\scoreUp.cs" />
      <Compile Include="Assets\Scripts\vida_Script.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files (x86)/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/4.6.0/UnityEngine.UI.dll</HintPath>

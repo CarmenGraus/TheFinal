@@ -10,7 +10,7 @@ public class limiteVelocidad : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-		Debug.Log (rigidbody2D.velocity.y);
+		//Debug.Log (rigidbody2D.velocity.y);
 		if (rigidbody2D.velocity.y < limitey) {
 			rigidbody2D.velocity = new Vector2 (0,limitey);
 				}
