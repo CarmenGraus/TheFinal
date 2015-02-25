@@ -5,11 +5,11 @@
 	<Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
 	<ProductVersion>10.0.20506</ProductVersion>
 	<SchemaVersion>2.0</SchemaVersion>
-	<ProjectGuid>{5A7A627D-DB18-23B7-031A-2DAB342D149B}</ProjectGuid>
+	<ProjectGuid>{91554782-0531-BA9B-FC36-7AF71512E9C2}</ProjectGuid>
 	<OutputType>Library</OutputType>
 	<AppDesignerFolder>Properties</AppDesignerFolder>
 	<RootNamespace></RootNamespace>
-	<AssemblyName>Assembly-CSharp</AssemblyName>
+	<AssemblyName>Assembly-UnityScript</AssemblyName>
 	<TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
 	<FileAlignment>512</FileAlignment>
 	<BaseDirectory>Assets</BaseDirectory>
@@ -46,16 +46,7 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\Scripts\focaScript.cs" />
-     <Compile Include="Assets\Scripts\gameControl.cs" />
-     <Compile Include="Assets\Scripts\generadorScript.cs" />
-     <Compile Include="Assets\Scripts\itemVidaScript.cs" />
-     <Compile Include="Assets\Scripts\limiteVelocidad.cs" />
-     <Compile Include="Assets\Scripts\menuScript.cs" />
-     <Compile Include="Assets\Scripts\pinguinoScript.cs" />
-     <Compile Include="Assets\Scripts\puntuacion_Script.cs" />
-     <Compile Include="Assets\Scripts\scoreUp.cs" />
-     <Compile Include="Assets\Scripts\vida_Script.cs" />
+     <Compile Include="Assets\Scripts\NewBehaviourScript.js" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files (x86)/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/4.6.0/UnityEngine.UI.dll</HintPath>
  </Reference>

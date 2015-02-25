@@ -11,9 +11,7 @@ public class menuScript : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-		if (gameControl.dead) {
-			animacion_panel.SetBool ("muestraMenu", true);
-		}
+
 	}
 	public void restart(){
 		animacion_panel.SetBool ("muestraMenu", false);
