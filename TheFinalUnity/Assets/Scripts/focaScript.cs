@@ -24,5 +24,7 @@ public class focaScript : MonoBehaviour {
 		salud = salud - 100;
 		
 	}
+	void OnDestroy() {
+		gameControl.gamecontrol.vidas = gameControl.gamecontrol.vidas -1 ;
 	}
-
+}

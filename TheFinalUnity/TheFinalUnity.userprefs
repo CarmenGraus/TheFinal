@@ -1,16 +1,6 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\focaScript.cs">
-    <Files>
-      <File FileName="Assets\Scripts\pinguinoScript.cs" Line="25" Column="3" />
-      <File FileName="Assets\Scripts\focaScript.cs" Line="25" Column="3" />
-      <File FileName="Assets\Scripts\vida_Script.cs" Line="1" Column="1" />
-      <File FileName="Assets\Scripts\itemVidaScript.cs" Line="1" Column="1" />
-      <File FileName="Assets\Scripts\menuScript.cs" Line="1" Column="1" />
-      <File FileName="Assets\Scripts\puntuacion_Script.cs" Line="1" Column="1" />
-      <File FileName="Assets\Scripts\gameControl.cs" Line="1" Column="1" />
-    </Files>
-  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>

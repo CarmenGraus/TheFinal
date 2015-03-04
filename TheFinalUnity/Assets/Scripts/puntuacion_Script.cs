@@ -2,6 +2,7 @@
 using System.Collections;
 
 public class puntuacion_Script : MonoBehaviour {
+	int points = 0;
 
 	// Use this for initialization
 	void Start () {
